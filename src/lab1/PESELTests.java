@@ -1,4 +1,4 @@
-package lab1.pesel;
+package lab1;
 
 import java.util.Scanner;
 

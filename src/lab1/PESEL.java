@@ -1,4 +1,4 @@
-package lab1.pesel;
+package lab1;
 
 public class PESEL {
     public static boolean check (String toCheck){
