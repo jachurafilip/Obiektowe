@@ -1,4 +1,4 @@
-package lab2;
+package lab2.Prostokąt;
 
 public class Prostokąt extends Kwadrat {
     protected double b_;
