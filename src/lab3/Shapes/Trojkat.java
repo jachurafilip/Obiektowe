@@ -1,15 +1,15 @@
 package lab3.Shapes;
 
 public class Trojkat extends Shape {
+    public Trojkat()
+    {
+        edges = 3;
+    }
     public void draw()
     {
-        for (int i=0;i<6;i++)
-        {
-            for(int j=0;j<i;j++)
-            {
-                System.out.print("X");
-            }
-         System.out.println("");
-        }
+        System.out.println("  X  ");
+        System.out.println(" XXX ");
+        System.out.println("XXXXX");
+        System.out.println("");
     }
 }
