@@ -12,6 +12,6 @@ public class Szesciokat extends Shape{
         System.out.println("XXXXXXX");
         System.out.println(" XXXXX ");
         System.out.println("  XXX  ");
-        System.out.println("");
+        System.out.println();
     }
 }

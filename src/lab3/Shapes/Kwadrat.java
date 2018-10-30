@@ -13,9 +13,9 @@ public class Kwadrat extends Shape {
             {
                 System.out.print("X");
             }
-            System.out.println("");
+            System.out.println();
         }
-        System.out.println("");
+        System.out.println();
     }
 
 }

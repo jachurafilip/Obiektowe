@@ -6,8 +6,7 @@ import lab3.Shapes.Trojkat;
 
 
 public class main {
-    public static void main(String[] argv)
-    {
+    public static void main(String[] argv) {
 
         ShapesList shapes = new ShapesList();
         Kwadrat K = new Kwadrat();

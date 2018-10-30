@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b316977d-03f8-4ab2-af41-04bf69873077" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lab3/Shapes/Szesciokat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4/Shapes/EdgesComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4/Shapes/ShapesList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4/Shapes/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab3/Shapes/Kwadrat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab3/Shapes/Kwadrat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab3/Shapes/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab3/Shapes/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab3/Shapes/Trojkat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab3/Shapes/Trojkat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab3/Shapes/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab3/Shapes/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab4/Shapes/EdgesComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/Shapes/EdgesComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab4/Shapes/ShapesList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/Shapes/ShapesList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab4/Shapes/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/Shapes/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab4/szyfrowanie/Algorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/szyfrowanie/Algorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab4/szyfrowanie/Cryptographer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/szyfrowanie/Cryptographer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab4/szyfrowanie/Polibiusz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/szyfrowanie/Polibiusz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab4/szyfrowanie/ROT11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/szyfrowanie/ROT11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab4/szyfrowanie/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/szyfrowanie/main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -70,123 +70,48 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="42" />
+          <entry key="java" value="46" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="42" />
+          <entry key="JAVA" value="46" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="13" />
+          <entry key="project.closed" value="14" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.15" value="2" />
           <entry key="project.open.time.16" value="7" />
-          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.17" value="2" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="13" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="5" />
-          <entry key="java" value="9409" />
-          <entry key="txt" value="55" />
+          <entry key="java" value="9494" />
+          <entry key="txt" value="67" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="9409" />
-          <entry key="PLAIN_TEXT" value="60" />
+          <entry key="JAVA" value="9494" />
+          <entry key="PLAIN_TEXT" value="72" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lab4/pracownicy/PracownikEtatowy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-              <folding>
-                <element signature="e#203#204#0" expanded="true" />
-                <element signature="e#241#242#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lab3/Shapes/Kwadrat.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
-              <folding>
-                <element signature="e#84#85#0" expanded="true" />
-                <element signature="e#104#105#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lab3/Shapes/Szesciokat.java">
+        <entry file="file://$PROJECT_DIR$/src/lab4/szyfrowanie/Cryptographer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lab3/Shapes/Trojkat.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
-              <folding>
-                <element signature="e#84#85#0" expanded="true" />
-                <element signature="e#108#109#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lab3/Shapes/main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lab4/Shapes/ShapesList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#163#164#0" expanded="true" />
-                <element signature="e#205#206#0" expanded="true" />
-                <element signature="e#185#186#0" expanded="true" />
-                <element signature="e#206#207#0" expanded="true" />
-                <element signature="e#387#388#0" expanded="true" />
-                <element signature="e#413#414#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lab4/Shapes/main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+            <state relative-caret-position="206">
+              <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -195,33 +120,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lab4/Shapes/EdgesComparator.java">
+        <entry file="file://$PROJECT_DIR$/src/lab4/szyfrowanie/main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+            <state relative-caret-position="159">
+              <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#196#197#0" expanded="true" />
-                <element signature="e#219#220#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lab3/Shapes/Shape.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lab4/szyfrowanie/Algorithm.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -261,11 +166,6 @@
         <option value="$PROJECT_DIR$/src/lab3/lab4/szyfrowanie/Cryptographer.java" />
         <option value="$PROJECT_DIR$/src/szyfrowanie/Cryptographer.java" />
         <option value="$PROJECT_DIR$/src/lab4/Cryptographer.java" />
-        <option value="$PROJECT_DIR$/src/lab4/szyfrowanie/Cryptographer.java" />
-        <option value="$PROJECT_DIR$/src/lab4/szyfrowanie/Algorithm.java" />
-        <option value="$PROJECT_DIR$/src/lab4/szyfrowanie/ROT11.java" />
-        <option value="$PROJECT_DIR$/src/lab4/szyfrowanie/Polibiusz.java" />
-        <option value="$PROJECT_DIR$/src/lab4/szyfrowanie/main.java" />
         <option value="$PROJECT_DIR$/src/lab1/PESEL.java" />
         <option value="$PROJECT_DIR$/src/lab4/pracownicy/Student.java" />
         <option value="$PROJECT_DIR$/src/lab4/pracownicy/PracownikEtatowy.java" />
@@ -273,13 +173,18 @@
         <option value="$PROJECT_DIR$/src/lab4/pracownicy/Pracownik.java" />
         <option value="$PROJECT_DIR$/src/lab4/pracownicy/Kadry.java" />
         <option value="$PROJECT_DIR$/src/lab3/Shapes/main.java" />
-        <option value="$PROJECT_DIR$/src/lab4/Shapes/EdgesComparator.java" />
         <option value="$PROJECT_DIR$/src/lab3/Shapes/Shape.java" />
-        <option value="$PROJECT_DIR$/src/lab4/Shapes/ShapesList.java" />
-        <option value="$PROJECT_DIR$/src/lab4/Shapes/main.java" />
+        <option value="$PROJECT_DIR$/src/lab3/Shapes/Szesciokat.java" />
         <option value="$PROJECT_DIR$/src/lab3/Shapes/Trojkat.java" />
         <option value="$PROJECT_DIR$/src/lab3/Shapes/Kwadrat.java" />
-        <option value="$PROJECT_DIR$/src/lab3/Shapes/Szesciokat.java" />
+        <option value="$PROJECT_DIR$/src/lab4/szyfrowanie/ROT11.java" />
+        <option value="$PROJECT_DIR$/src/lab4/Shapes/ShapesList.java" />
+        <option value="$PROJECT_DIR$/src/lab4/Shapes/main.java" />
+        <option value="$PROJECT_DIR$/src/lab4/Shapes/EdgesComparator.java" />
+        <option value="$PROJECT_DIR$/src/lab4/szyfrowanie/Algorithm.java" />
+        <option value="$PROJECT_DIR$/src/lab4/szyfrowanie/Cryptographer.java" />
+        <option value="$PROJECT_DIR$/src/lab4/szyfrowanie/main.java" />
+        <option value="$PROJECT_DIR$/src/lab4/szyfrowanie/Polibiusz.java" />
       </list>
     </option>
   </component>
@@ -309,7 +214,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -380,16 +284,18 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540896237519" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540896250975" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/jaf-1.1.1/activation.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -484,6 +390,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Test" />
       <item itemvalue="Application.main" />
       <item itemvalue="Application.Test (1)" />
       <item itemvalue="Application.Cipher" />
@@ -523,7 +430,8 @@
       <workItem from="1540803124390" duration="3388000" />
       <workItem from="1540831471351" duration="2035000" />
       <workItem from="1540833549490" duration="24000" />
-      <workItem from="1540894387674" duration="1676000" />
+      <workItem from="1540894387674" duration="1917000" />
+      <workItem from="1540896728016" duration="932000" />
     </task>
     <task id="LOCAL-00001" summary="Pesel">
       <created>1539544327374</created>
@@ -581,11 +489,18 @@
       <option name="project" value="LOCAL" />
       <updated>1540894490865</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Shapes2 done">
+      <created>1540896267410</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1540896267410</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20660000" />
+    <option name="totallyTimeSpent" value="21833000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -600,7 +515,7 @@
     <frame x="0" y="25" width="1366" height="688" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30757576" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3128788" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -609,15 +524,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924242" visible="true" weight="0.32616487" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924242" weight="0.32616487" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39964157" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3297491" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3297491" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007576" side_tool="true" weight="0.32616487" />
-      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49848485" weight="0.32616487" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5022727" side_tool="true" weight="0.32437277" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49772727" weight="0.325" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32616487" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
@@ -671,7 +586,8 @@
     <MESSAGE value="Lab2" />
     <MESSAGE value="Mail is succesfully sent" />
     <MESSAGE value="Cryptographer done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cryptographer done" />
+    <MESSAGE value="Shapes2 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Shapes2 done" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -762,48 +678,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab4/szyfrowanie/Cryptographer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="44" column="9" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab4/szyfrowanie/ROT11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab4/szyfrowanie/Polibiusz.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="19" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab4/szyfrowanie/main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="57" column="13" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lab4/pracownicy/Pracownik.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
-          <folding>
-            <element signature="e#294#295#0" expanded="true" />
-            <element signature="e#327#328#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -811,11 +689,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding>
-            <element signature="e#137#138#0" expanded="true" />
-            <element signature="e#171#172#0" expanded="true" />
-            <element signature="e#242#243#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -823,16 +696,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
-          <folding>
-            <element signature="e#787#788#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab4/szyfrowanie/Algorithm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -843,9 +706,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar:///usr/lib/jvm/jdk-11/lib/src.zip!/java.base/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="149" column="8" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/lab4/pracownicy/PracownikEtatowy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
+        <state relative-caret-position="60">
           <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
           <folding>
             <element signature="e#203#204#0" expanded="true" />
@@ -854,10 +724,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/lib/jvm/jdk-11/lib/src.zip!/java.base/java/util/Comparator.java">
+    <entry file="file://$PROJECT_DIR$/src/lab3/Shapes/Kwadrat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="149" column="8" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
+        <state relative-caret-position="90">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding>
+            <element signature="e#84#85#0" expanded="true" />
+            <element signature="e#109#110#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab3/Shapes/Szesciokat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab3/Shapes/Trojkat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+          <folding>
+            <element signature="e#84#85#0" expanded="true" />
+            <element signature="e#109#110#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab3/Shapes/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -868,26 +767,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab4/szyfrowanie/ROT11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/lab4/Shapes/ShapesList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+        <state relative-caret-position="116">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#163#164#0" expanded="true" />
-            <element signature="e#205#206#0" expanded="true" />
-            <element signature="e#185#186#0" expanded="true" />
             <element signature="e#206#207#0" expanded="true" />
-            <element signature="e#387#388#0" expanded="true" />
-            <element signature="e#413#414#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lab4/Shapes/main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        <state relative-caret-position="294">
+          <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -897,48 +799,46 @@
     <entry file="file://$PROJECT_DIR$/src/lab4/Shapes/EdgesComparator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#196#197#0" expanded="true" />
-            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab3/Shapes/main.java">
+    <entry file="file://$PROJECT_DIR$/src/lab4/szyfrowanie/Algorithm.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab3/Shapes/Trojkat.java">
+    <entry file="file://$PROJECT_DIR$/src/lab4/szyfrowanie/main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+        <state relative-caret-position="159">
+          <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
           <folding>
-            <element signature="e#84#85#0" expanded="true" />
-            <element signature="e#108#109#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab3/Shapes/Kwadrat.java">
+    <entry file="file://$PROJECT_DIR$/src/lab4/szyfrowanie/Polibiusz.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
-          <folding>
-            <element signature="e#84#85#0" expanded="true" />
-            <element signature="e#104#105#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="270">
+          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab3/Shapes/Szesciokat.java">
+    <entry file="file://$PROJECT_DIR$/src/lab4/szyfrowanie/Cryptographer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        <state relative-caret-position="206">
+          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -10,6 +10,6 @@ public class Trojkat extends Shape {
         System.out.println("  X  ");
         System.out.println(" XXX ");
         System.out.println("XXXXX");
-        System.out.println("");
+        System.out.println();
     }
 }

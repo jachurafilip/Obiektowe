@@ -6,23 +6,17 @@ import java.io.PrintWriter;
 import java.util.Scanner;
 
 public class Cryptographer {
-    public static void cryptfile(File in, PrintWriter out, Algorithm algo)
-    {
+    public static void cryptfile(File in, PrintWriter out, Algorithm algo) {
         Scanner scan = null;
 
-        try
-        {
+        try {
             scan = new Scanner(in);
-        }
-        catch (FileNotFoundException ex)
-        {
+        } catch (FileNotFoundException ex) {
             ex.printStackTrace();
         }
-        while (scan.hasNextLine())
-        {
+        while (scan.hasNextLine()) {
             Scanner scan2 = new Scanner(scan.nextLine());
-            while (scan2.hasNext())
-            {
+            while (scan2.hasNext()) {
                 String s = scan2.next();
                 out.print(algo.crypt(s));
 
@@ -31,23 +25,18 @@ public class Cryptographer {
         }
         out.close();
     }
-    public static void decryptfile(File in, PrintWriter out, Algorithm algo)
-    {
+
+    public static void decryptfile(File in, PrintWriter out, Algorithm algo) {
         Scanner scan = null;
 
-        try
-        {
+        try {
             scan = new Scanner(in);
-        }
-        catch (FileNotFoundException ex)
-        {
+        } catch (FileNotFoundException ex) {
             ex.printStackTrace();
         }
-        while (scan.hasNextLine())
-        {
+        while (scan.hasNextLine()) {
             Scanner scan2 = new Scanner(scan.nextLine());
-            while (scan2.hasNext())
-            {
+            while (scan2.hasNext()) {
                 String s = scan2.next();
                 out.print(algo.decrypt(s));
 
