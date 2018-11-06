@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b316977d-03f8-4ab2-af41-04bf69873077" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/io_indico_io_indico_3_15_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/io_indico_io_indico_3_16_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gravity.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab5/photos/Photo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab5/subtitles/Delay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab5/subtitles/WrongFormatException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab5/subtitles/WrongFramesException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab4/Shapes/EdgesComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/Shapes/EdgesComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab4/Shapes/ShapesList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/Shapes/ShapesList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab4/Shapes/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/Shapes/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab4/szyfrowanie/Algorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/szyfrowanie/Algorithm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab4/szyfrowanie/Cryptographer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/szyfrowanie/Cryptographer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab4/szyfrowanie/Polibiusz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/szyfrowanie/Polibiusz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab4/szyfrowanie/ROT11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/szyfrowanie/ROT11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab4/szyfrowanie/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/szyfrowanie/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Obiektowe.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Obiektowe.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -69,49 +69,56 @@
     <session id="546738694">
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="1" />
-          <entry key="java" value="46" />
+          <entry key="class" value="5" />
+          <entry key="java" value="52" />
+          <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="46" />
+          <entry key="CLASS" value="5" />
+          <entry key="JAVA" value="52" />
+          <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="14" />
+          <entry key="project.closed" value="20" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.15" value="2" />
-          <entry key="project.open.time.16" value="7" />
-          <entry key="project.open.time.17" value="2" />
+          <entry key="project.open.time.16" value="8" />
+          <entry key="project.open.time.17" value="3" />
+          <entry key="project.open.time.18" value="3" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="14" />
+          <entry key="project.opened" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="5" />
-          <entry key="java" value="9494" />
-          <entry key="txt" value="67" />
+          <entry key="java" value="12762" />
+          <entry key="txt" value="94" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="9494" />
-          <entry key="PLAIN_TEXT" value="72" />
+          <entry key="JAVA" value="12762" />
+          <entry key="PLAIN_TEXT" value="99" />
         </counts>
       </usages-collector>
     </session>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Obiektowe" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lab4/szyfrowanie/Cryptographer.java">
+        <entry file="file://$PROJECT_DIR$/src/lab5/subtitles/Delay.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+            <state>
+              <caret lean-forward="true" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -120,13 +127,48 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lab4/szyfrowanie/main.java">
+        <entry file="file://$PROJECT_DIR$/src/lab5/subtitles/WrongFormatException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
-              <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+            <state relative-caret-position="75">
+              <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+              <folding>
+                <element signature="e#128#129#0" expanded="true" />
+                <element signature="e#193#194#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lab5/subtitles/WrongFramesException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+              <folding>
+                <element signature="e#128#129#0" expanded="true" />
+                <element signature="e#187#188#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lab5/photos/Photo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/indico/io.indico/3.16.0/io.indico-3.16.0.jar!/io/indico/api/results/IndicoResult.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="31" column="43" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -185,6 +227,10 @@
         <option value="$PROJECT_DIR$/src/lab4/szyfrowanie/Cryptographer.java" />
         <option value="$PROJECT_DIR$/src/lab4/szyfrowanie/main.java" />
         <option value="$PROJECT_DIR$/src/lab4/szyfrowanie/Polibiusz.java" />
+        <option value="$PROJECT_DIR$/src/lab5/photos/Photo.java" />
+        <option value="$PROJECT_DIR$/src/lab5/subtitles/WrongFormatException.java" />
+        <option value="$PROJECT_DIR$/src/lab5/subtitles/WrongFramesException.java" />
+        <option value="$PROJECT_DIR$/src/lab5/subtitles/Delay.java" />
       </list>
     </option>
   </component>
@@ -236,6 +282,19 @@
               <item name="Obiektowe" type="b2602c69:ProjectViewProjectNode" />
               <item name="Obiektowe" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lab2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Obiektowe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Obiektowe" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lab2" type="462c0819:PsiDirectoryNode" />
+              <item name="Prostokąt" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Obiektowe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Obiektowe" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="lab3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -249,35 +308,20 @@
               <item name="Obiektowe" type="b2602c69:ProjectViewProjectNode" />
               <item name="Obiektowe" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lab3" type="462c0819:PsiDirectoryNode" />
-              <item name="Shapes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Obiektowe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Obiektowe" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="lab4" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Obiektowe" type="b2602c69:ProjectViewProjectNode" />
               <item name="Obiektowe" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lab4" type="462c0819:PsiDirectoryNode" />
-              <item name="pracownicy" type="462c0819:PsiDirectoryNode" />
+              <item name="lab5" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Obiektowe" type="b2602c69:ProjectViewProjectNode" />
               <item name="Obiektowe" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lab4" type="462c0819:PsiDirectoryNode" />
-              <item name="Shapes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Obiektowe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Obiektowe" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lab4" type="462c0819:PsiDirectoryNode" />
-              <item name="szyfrowanie" type="462c0819:PsiDirectoryNode" />
+              <item name="lab5" type="462c0819:PsiDirectoryNode" />
+              <item name="subtitles" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -288,14 +332,18 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540896250975" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/jaf-1.1.1/activation.jar!/" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541500721284" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -309,14 +357,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.main (2)">
-    <configuration name="Cipher" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lab4.szyfrowanie.main" />
+  <component name="RunManager" selected="Application.Photo">
+    <configuration name="Delay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab5.subtitles.Delay" />
       <module name="Obiektowe" />
-      <option name="PROGRAM_PARAMETERS" value="&quot;in.txt&quot; &quot;out.txt&quot;" />
+      <option name="PROGRAM_PARAMETERS" value="gravity.txt out.txt 1000 24" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab4.szyfrowanie.*" />
+          <option name="PATTERN" value="lab5.subtitles.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -324,12 +372,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab2.pkg1.Test" />
+    <configuration name="Photo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab5.photos.Photo" />
       <module name="Obiektowe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab2.pkg1.*" />
+          <option name="PATTERN" value="lab5.photos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -337,12 +385,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab2.Prostokąt.Test" />
+    <configuration name="Photo12" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="sbobek.lab5.Photo" />
       <module name="Obiektowe" />
+      <option name="PROGRAM_PARAMETERS" value="foto" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab2.Prostokąt.*" />
+          <option name="PATTERN" value="sbobek.lab5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -376,34 +425,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab3.Email.main" />
-      <module name="Obiektowe" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lab3.Email.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.main" />
-      <item itemvalue="Application.Test (1)" />
-      <item itemvalue="Application.Cipher" />
       <item itemvalue="Application.main (1)" />
       <item itemvalue="Application.main (2)" />
+      <item itemvalue="Application.Delay" />
+      <item itemvalue="Application.Photo12" />
+      <item itemvalue="Application.Photo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Photo" />
+        <item itemvalue="Application.Delay" />
+        <item itemvalue="Application.Photo12" />
+        <item itemvalue="Application.Photo" />
         <item itemvalue="Application.main (2)" />
-        <item itemvalue="Application.main (1)" />
-        <item itemvalue="Application.Cipher" />
-        <item itemvalue="Application.main" />
-        <item itemvalue="Application.Test (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -431,7 +466,13 @@
       <workItem from="1540831471351" duration="2035000" />
       <workItem from="1540833549490" duration="24000" />
       <workItem from="1540894387674" duration="1917000" />
-      <workItem from="1540896728016" duration="932000" />
+      <workItem from="1540896728016" duration="1105000" />
+      <workItem from="1541337279201" duration="62000" />
+      <workItem from="1541407536871" duration="3825000" />
+      <workItem from="1541414290972" duration="2029000" />
+      <workItem from="1541434017794" duration="4705000" />
+      <workItem from="1541439038174" duration="145000" />
+      <workItem from="1541498684581" duration="2281000" />
     </task>
     <task id="LOCAL-00001" summary="Pesel">
       <created>1539544327374</created>
@@ -496,11 +537,18 @@
       <option name="project" value="LOCAL" />
       <updated>1540896267410</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Reformated code">
+      <created>1540897720806</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1540897720806</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21833000" />
+    <option name="totallyTimeSpent" value="35053000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -513,9 +561,38 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="688" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3128788" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4982079" visible="true" weight="0.34772727" />
+      <window_info id="Structure" order="1" sideWeight="0.50179213" side_tool="true" weight="0.32348484" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50179213" side_tool="true" weight="0.32348484" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924242" visible="true" weight="0.26523298" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39964157" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3297491" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3297491" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5022727" side_tool="true" weight="0.32437277" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49772727" weight="0.32437277" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32616487" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" id="Maven Projects" order="7" sideWeight="0.50265956" side_tool="true" weight="0.32954547" />
+      <window_info anchor="right" id="Database" order="8" sideWeight="0.4973404" weight="0.32954547" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32348484" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -524,7 +601,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924242" weight="0.32616487" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924242" visible="true" weight="0.32616487" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39964157" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -541,38 +618,8 @@
       <window_info anchor="right" id="Theme Preview" order="4" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
-      <window_info anchor="right" id="Database" order="7" sideWeight="0.4973404" weight="0.32954547" />
-      <window_info anchor="right" id="Maven Projects" order="8" sideWeight="0.50265956" side_tool="true" weight="0.32954547" />
-    </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30757576" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924242" visible="true" weight="0.32616487" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39964157" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3297491" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3297491" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007576" side_tool="true" weight="0.32616487" />
-      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49848485" weight="0.32616487" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32616487" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Palette&#9;" order="5" />
-      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
-      <window_info anchor="right" id="Database" order="7" sideWeight="0.4973404" weight="0.32954547" />
-      <window_info anchor="right" id="Maven Projects" order="8" sideWeight="0.50265956" side_tool="true" weight="0.32954547" />
+      <window_info anchor="right" id="Maven Projects" order="7" sideWeight="0.50265956" side_tool="true" weight="0.32954547" />
+      <window_info anchor="right" id="Database" order="8" sideWeight="0.4973404" weight="0.32954547" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -587,11 +634,26 @@
     <MESSAGE value="Mail is succesfully sent" />
     <MESSAGE value="Cryptographer done" />
     <MESSAGE value="Shapes2 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Shapes2 done" />
+    <MESSAGE value="Reformated code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reformated code" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>matcher.group(1)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>matcher.groups</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/lab1/pesel/Main.java" />
@@ -692,13 +754,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab1/Pesel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lab4/pracownicy/Kadry.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
@@ -717,10 +772,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-          <folding>
-            <element signature="e#203#204#0" expanded="true" />
-            <element signature="e#241#242#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -728,10 +779,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-          <folding>
-            <element signature="e#84#85#0" expanded="true" />
-            <element signature="e#109#110#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -746,10 +793,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-          <folding>
-            <element signature="e#84#85#0" expanded="true" />
-            <element signature="e#109#110#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -778,11 +821,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
           <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#163#164#0" expanded="true" />
-            <element signature="e#206#207#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -790,9 +828,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
           <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -800,11 +835,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#196#197#0" expanded="true" />
-            <element signature="e#236#237#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -812,16 +842,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab4/szyfrowanie/main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -834,8 +854,99 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lab4/szyfrowanie/Cryptographer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
+        <state relative-caret-position="208">
           <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab1/Pesel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab4/szyfrowanie/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/indico/io.indico/3.16.0/io.indico-3.16.0.jar!/io/indico/Indico.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="52" column="11" selection-start-line="52" selection-start-column="11" selection-end-line="52" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/jdk-11/lib/src.zip!/java.base/java/util/function/Predicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/indico/io.indico/3.16.0/io.indico-3.16.0.jar!/io/indico/api/ApiClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/indico/io.indico/3.16.0/io.indico-3.16.0.jar!/io/indico/api/ImageApi.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/indico/io.indico/3.16.0/io.indico-3.16.0.jar!/io/indico/api/results/IndicoResult.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="31" column="43" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab5/photos/Photo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab5/subtitles/WrongFramesException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+          <folding>
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#187#188#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab5/subtitles/WrongFormatException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+          <folding>
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab5/subtitles/Delay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -918,6 +1029,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>io.indico:io.indico:3.16.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
