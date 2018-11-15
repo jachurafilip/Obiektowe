@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b316977d-03f8-4ab2-af41-04bf69873077" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Obiektowe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/cw1/MouseMotion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/cw1/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Obiektowe.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Obiektowe.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Obiektowe/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Obiektowe/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab6/cw1/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab6/cw1/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab6/cw1/MouseMove.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab6/cw1/MyPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab6/cw1/MyPanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab6/cw1/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab6/cw1/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab6/cw1/Shapes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab6/cw1/Shapes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab6/cw1/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab6/cw1/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Obiektowe/src/lab1/pesel/Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -127,13 +115,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="12" />
-          <entry key="java" value="3208" />
+          <entry key="java" value="3226" />
+          <entry key="txt" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3208" />
-          <entry key="PLAIN_TEXT" value="12" />
+          <entry key="JAVA" value="3226" />
+          <entry key="PLAIN_TEXT" value="45" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.lifecycle.project">
@@ -150,7 +139,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/lab6/cw1/Program.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
@@ -183,11 +172,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lab6/cw1/MouseMotion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="457">
-              <caret line="42" column="5" lean-forward="true" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+            <state relative-caret-position="-2">
+              <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1199#1200#0" expanded="true" />
@@ -213,10 +202,9 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lab6/cw1/Circle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="22" lean-forward="true" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+            <state relative-caret-position="493">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
               <folding>
-                <element signature="e#499#500#0" expanded="true" />
                 <element signature="e#536#537#0" expanded="true" />
               </folding>
             </state>
@@ -226,7 +214,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lab6/cw1/Triangle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
+            <state relative-caret-position="353">
               <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
               <folding>
                 <element signature="e#650#651#0" expanded="true" />
@@ -247,6 +235,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -408,7 +399,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542325412670" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542325644886" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -546,7 +537,7 @@
       <workItem from="1541530681389" duration="1000" />
       <workItem from="1541537928814" duration="69000" />
       <workItem from="1542103843390" duration="4637000" />
-      <workItem from="1542322758127" duration="2546000" />
+      <workItem from="1542322758127" duration="2812000" />
     </task>
     <task id="LOCAL-00001" summary="Pesel">
       <created>1539544327374</created>
@@ -625,11 +616,18 @@
       <option name="project" value="LOCAL" />
       <updated>1541500998557</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Shapes done">
+      <created>1542325447893</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1542325447893</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51276000" />
+    <option name="totallyTimeSpent" value="51542000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -642,9 +640,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4982079" visible="true" weight="0.35501066" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4982079" visible="true" weight="0.35501066" />
       <window_info id="Structure" order="1" sideWeight="0.50179213" side_tool="true" weight="0.32348484" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -653,7 +650,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.50179213" side_tool="true" weight="0.32348484" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4978678" visible="true" weight="0.2646421" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4978678" weight="0.2646421" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -718,7 +715,8 @@
     <MESSAGE value="Shapes2 done" />
     <MESSAGE value="Reformated code" />
     <MESSAGE value="Subtitles OK, Photos doesn't connect with API properly" />
-    <option name="LAST_COMMIT_MESSAGE" value="Subtitles OK, Photos doesn't connect with API properly" />
+    <MESSAGE value="Shapes done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Shapes done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -736,7 +734,7 @@
           <properties class="lab6.cw1.Circle" method="inRange">
             <option name="EMULATED" value="true" />
           </properties>
-          <option name="timeStamp" value="3" />
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -764,6 +762,11 @@
       </expression>
     </expressions>
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>inRange(141,41)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>inRange(151,100)</expression-string>
         <language-id>JAVA</language-id>
@@ -1129,17 +1132,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab6/cw1/Triangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
-          <folding>
-            <element signature="e#650#651#0" expanded="true" />
-            <element signature="e#691#692#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lab6/cw1/MyPanel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -1150,35 +1142,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab6/cw1/Program.java">
+    <entry file="file://$PROJECT_DIR$/src/lab6/cw1/MouseMotion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+        <state relative-caret-position="-2">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1199#1200#0" expanded="true" />
+            <element signature="e#1226#1227#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab6/cw1/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
+          <folding>
+            <element signature="e#650#651#0" expanded="true" />
+            <element signature="e#691#692#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lab6/cw1/Circle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="22" lean-forward="true" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+        <state relative-caret-position="493">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
           <folding>
-            <element signature="e#499#500#0" expanded="true" />
             <element signature="e#536#537#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab6/cw1/MouseMotion.java">
+    <entry file="file://$PROJECT_DIR$/src/lab6/cw1/Program.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="457">
-          <caret line="42" column="5" lean-forward="true" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+        <state relative-caret-position="357">
+          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1199#1200#0" expanded="true" />
-            <element signature="e#1226#1227#0" expanded="true" />
           </folding>
         </state>
       </provider>
