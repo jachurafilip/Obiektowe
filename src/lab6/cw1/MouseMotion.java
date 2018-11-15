@@ -44,7 +44,6 @@ public class MouseMotion implements MouseMotionListener, MouseListener {
         found = null;
         x = e.getX();
         y = e.getY();
-        System.out.println(x+" "+y);
         for(var sh: panel.shapes)
         {
             if(sh.inRange(x,y))
