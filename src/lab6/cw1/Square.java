@@ -1,13 +1,31 @@
 package lab6.cw1;
 
 import java.awt.*;
-import java.awt.geom.Rectangle2D;
 
 public class Square extends Shapes {
-    public void draw(Graphics2D g, int x, int y)
+    private int x_,y_,a_;
+    Square(int x, int y, int a)
     {
-        Rectangle2D.Float square = new Rectangle2D.Float(x,y,50,50);
-        g.setColor(new Color(0,0,0));
-        g.fill(square);
+        super();
+        x_=x;
+        y_ =y;
+        a_=a;
     }
+    public void setMargin(int x, int y)
+    {
+        x_+=x;
+        y_+=y;
+
+    }
+    public boolean inRange(int x, int y)
+    {
+        return (x <= x_ + a_ && x >= x_ && y <= y_+a_ && y >= y_);
+    }
+    public void draw(Graphics2D g)
+    {
+        g.setColor(new Color(0,0,0));
+        g.fillRect(x_,y_,a_,a_);
+    }
+
+
 }

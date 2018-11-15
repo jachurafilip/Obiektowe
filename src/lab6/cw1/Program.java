@@ -1,28 +1,30 @@
 package lab6.cw1;
 
 import javax.swing.*;
-import java.awt.*;
-import java.awt.event.WindowAdapter;
-import java.awt.event.WindowEvent;
+import java.util.LinkedList;
 
-public class Program extends JFrame {
-    public static void main(String argv[])
-    {
-        int x = 450;
-        int y = 450;
-        Program p = new Program();
-        MyPanel panel = new MyPanel(x,y);
-        panel.add(new Circle());
-        panel.add(new Square());
-        p.setSize(x,y);
-        p.setVisible(true);
-        p.add(panel);
-        p.addWindowListener(new WindowAdapter() {
-            public void windowClosing(WindowEvent we)
-            {
-                System.exit(0);
-            }
-        });
+public class Program extends JFrame{
+    public static final int WIDTH = 800;
+    public static final int HEIGHT = 600;
+    public Program(){
+        super("Shapes");
+        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        setSize(WIDTH,HEIGHT);
+        setVisible(true);
+    }
+
+    public static void main(String[] argv){
+        LinkedList<Shapes> list = new LinkedList<>();
+
+
+        list.add(new Square(10,10,50));
+        list.add(new Circle(100,50,50));
+        list.add(new Triangle());
+        MyPanel panel = new MyPanel(list);
+        MouseMotion mouseMotion = new MouseMotion(panel);
+        Program frame = new Program();
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        frame.setContentPane(panel);
 
     }
 }
