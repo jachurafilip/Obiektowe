@@ -14,7 +14,7 @@ public class Program extends JFrame {
 
             @Override
             public void run() {
-                JFrame frame = new JFrame("Quadratic Slider");
+                JFrame frame = new JFrame("Wielomiany");
                 frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
                 frame.add(new MyPanel());
                 frame.pack();
