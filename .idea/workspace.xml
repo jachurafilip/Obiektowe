@@ -1,13 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b316977d-03f8-4ab2-af41-04bf69873077" name="Default Changelist" comment="" />
+    <list default="true" id="b316977d-03f8-4ab2-af41-04bf69873077" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/lab6/Wielomiany/MyPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/Wielomiany/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab6/cw1/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab6/ksztalty/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab6/cw1/MouseMotion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab6/ksztalty/MouseMotion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab6/cw1/MyPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab6/ksztalty/MyPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab6/cw1/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab6/ksztalty/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab6/cw1/Shapes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab6/ksztalty/Shapes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab6/cw1/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab6/ksztalty/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab6/cw1/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab6/ksztalty/Triangle.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Obiektowe$Program__1_.ic" NAME="Program (1) Coverage Results" MODIFIED="1542368667613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>lab6.Wielomiany.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="189" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -60,14 +80,14 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="5" />
-          <entry key="java" value="70" />
+          <entry key="java" value="74" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="5" />
-          <entry key="JAVA" value="70" />
+          <entry key="JAVA" value="74" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -80,21 +100,21 @@
           <entry key="project.open.time.16" value="8" />
           <entry key="project.open.time.17" value="4" />
           <entry key="project.open.time.18" value="5" />
-          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="24" />
+          <entry key="project.opened" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="5" />
-          <entry key="java" value="14482" />
+          <entry key="java" value="15751" />
           <entry key="txt" value="165" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="14482" />
+          <entry key="JAVA" value="15751" />
           <entry key="PLAIN_TEXT" value="170" />
         </counts>
       </usages-collector>
@@ -138,10 +158,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lab6/cw1/Program.java">
+        <entry file="file://$PROJECT_DIR$/src/lab6/ksztalty/Square.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+            <state relative-caret-position="30">
+              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lab6/Wielomiany/Program.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -150,74 +179,36 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lab6/cw1/MyPanel.java">
+        <entry file="file://$PROJECT_DIR$/src/lab6/Wielomiany/MyPanel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+            <state relative-caret-position="96">
+              <caret line="66" column="29" selection-start-line="66" selection-start-column="29" selection-end-line="66" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#2180#2181#0" expanded="true" />
+                <element signature="e#2246#2247#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lab6/cw1/Shapes.java">
+        <entry file="file://$PROJECT_DIR$/src/lab6/ksztalty/Circle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lab6/cw1/MouseMotion.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2">
-              <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1199#1200#0" expanded="true" />
-                <element signature="e#1226#1227#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lab6/cw1/Square.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-              <folding>
-                <element signature="e#368#369#0" expanded="true" />
-                <element signature="e#441#442#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lab6/cw1/Circle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
+            <state relative-caret-position="329">
               <caret line="29" selection-start-line="29" selection-end-line="29" />
               <folding>
-                <element signature="e#536#537#0" expanded="true" />
+                <element signature="e#524#525#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lab6/cw1/Triangle.java">
+        <entry file="file://$PROJECT_DIR$/src/lab6/ksztalty/Triangle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
-              <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
-              <folding>
-                <element signature="e#650#651#0" expanded="true" />
-                <element signature="e#691#692#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="89">
+              <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -240,12 +231,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/lab3/Cw1/Test.java" />
-        <option value="$PROJECT_DIR$/src/lab3/Email/EmailMessage.java" />
-        <option value="$PROJECT_DIR$/src/lab3/Email/main.java" />
-        <option value="$PROJECT_DIR$/src/lab3/lab4/szyfrowanie/Cryptographer.java" />
-        <option value="$PROJECT_DIR$/src/szyfrowanie/Cryptographer.java" />
-        <option value="$PROJECT_DIR$/src/lab4/Cryptographer.java" />
         <option value="$PROJECT_DIR$/src/lab1/PESEL.java" />
         <option value="$PROJECT_DIR$/src/lab4/pracownicy/Student.java" />
         <option value="$PROJECT_DIR$/src/lab4/pracownicy/PracownikEtatowy.java" />
@@ -289,8 +274,14 @@
         <option value="$PROJECT_DIR$/src/lab6/Kacp/MyPanel.java" />
         <option value="$PROJECT_DIR$/src/lab6/cw1/MyPanel.java" />
         <option value="$PROJECT_DIR$/src/lab6/cw1/Program.java" />
-        <option value="$PROJECT_DIR$/src/lab6/cw1/Triangle.java" />
         <option value="$PROJECT_DIR$/src/lab6/cw1/MouseMotion.java" />
+        <option value="$PROJECT_DIR$/src/lab6/cw1/Triangle.java" />
+        <option value="$PROJECT_DIR$/src/lab6/ksztalty/Triangle.java" />
+        <option value="$PROJECT_DIR$/src/lab6/Wielomiany/GraphPanel.java" />
+        <option value="$PROJECT_DIR$/src/lab6/test/QuadraticPanel.java" />
+        <option value="$PROJECT_DIR$/src/lab6/Wielomiany/Program.java" />
+        <option value="$PROJECT_DIR$/src/lab6/test/QuadraticSlider.java" />
+        <option value="$PROJECT_DIR$/src/lab6/Wielomiany/MyPanel.java" />
       </list>
     </option>
   </component>
@@ -381,14 +372,21 @@
               <item name="Obiektowe" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="lab6" type="462c0819:PsiDirectoryNode" />
-              <item name="cw1" type="462c0819:PsiDirectoryNode" />
+              <item name="ksztalty" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Obiektowe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Obiektowe" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lab6" type="462c0819:PsiDirectoryNode" />
+              <item name="Wielomiany" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -397,13 +395,13 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542325852532" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542371282860" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -417,39 +415,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Program">
-    <configuration name="DragButton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab6.DragButton" />
+  <component name="RunManager" selected="Application.Program (1)">
+    <configuration name="GraphPanel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab6.Wielomiany.GraphPanel" />
       <module name="Obiektowe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DrawerProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab6.example.DrawerProgram" />
-      <module name="Obiektowe" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lab6.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Frame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab6.Frame" />
-      <module name="Obiektowe" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lab6.*" />
+          <option name="PATTERN" value="lab6.Wielomiany.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -470,12 +442,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab6.cw1.Program" />
+    <configuration name="Program (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab6.Wielomiany.Program" />
       <module name="Obiektowe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab6.cw1.*" />
+          <option name="PATTERN" value="lab6.Wielomiany.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab6.ksztalty.Program" />
+      <module name="Obiektowe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab6.ksztalty.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuadraticSlider" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab6.test.QuadraticSlider" />
+      <module name="Obiektowe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab6.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -484,19 +482,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DrawerProgram" />
       <item itemvalue="Application.Program" />
-      <item itemvalue="Application.Frame" />
-      <item itemvalue="Application.DragButton" />
       <item itemvalue="Application.MainFrame" />
+      <item itemvalue="Application.Program (1)" />
+      <item itemvalue="Application.GraphPanel" />
+      <item itemvalue="Application.QuadraticSlider" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Program (1)" />
+        <item itemvalue="Application.QuadraticSlider" />
+        <item itemvalue="Application.GraphPanel" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.MainFrame" />
-        <item itemvalue="Application.DragButton" />
-        <item itemvalue="Application.Frame" />
-        <item itemvalue="Application.DrawerProgram" />
       </list>
     </recent_temporary>
   </component>
@@ -536,6 +534,7 @@
       <workItem from="1541537928814" duration="69000" />
       <workItem from="1542103843390" duration="4637000" />
       <workItem from="1542322758127" duration="3078000" />
+      <workItem from="1542366732505" duration="4648000" />
     </task>
     <task id="LOCAL-00001" summary="Pesel">
       <created>1539544327374</created>
@@ -632,7 +631,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51808000" />
+    <option name="totallyTimeSpent" value="56456000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -644,9 +643,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="0" y="25" width="1366" height="688" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4982079" visible="true" weight="0.35501066" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4982079" visible="true" weight="0.2090909" />
       <window_info id="Structure" order="1" sideWeight="0.50179213" side_tool="true" weight="0.32348484" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -655,8 +654,8 @@
       <window_info id="Favorites" order="6" sideWeight="0.50179213" side_tool="true" weight="0.32348484" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4978678" weight="0.2646421" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4978678" weight="0.26344085" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39784947" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3297491" />
@@ -664,19 +663,20 @@
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3297491" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5021322" side_tool="true" weight="0.2646421" />
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49772727" weight="0.324295" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3253796" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32437277" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
       <window_info anchor="right" id="Palette" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
-      <window_info anchor="right" id="Database" order="6" sideWeight="0.4973404" weight="0.32954547" />
-      <window_info anchor="right" id="Maven Projects" order="7" sideWeight="0.50265956" side_tool="true" weight="0.32954547" />
-      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info anchor="right" id="Maven Projects" order="6" sideWeight="0.50265956" side_tool="true" weight="0.32954547" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" id="Database" order="8" sideWeight="0.4973404" weight="0.32954547" />
+      <window_info anchor="right" id="Coverage" order="9" weight="0.32954547" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4982079" visible="true" weight="0.35501066" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4982079" visible="true" weight="0.2090909" />
       <window_info id="Structure" order="1" sideWeight="0.50179213" side_tool="true" weight="0.32348484" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -685,8 +685,8 @@
       <window_info id="Favorites" order="6" sideWeight="0.50179213" side_tool="true" weight="0.32348484" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4978678" visible="true" weight="0.2646421" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4978678" visible="true" weight="0.26344085" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39784947" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3297491" />
@@ -694,16 +694,17 @@
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3297491" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5021322" side_tool="true" weight="0.2646421" />
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49772727" weight="0.324295" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3253796" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32437277" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
       <window_info anchor="right" id="Palette" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
-      <window_info anchor="right" id="Database" order="6" sideWeight="0.4973404" weight="0.32954547" />
-      <window_info anchor="right" id="Maven Projects" order="7" sideWeight="0.50265956" side_tool="true" weight="0.32954547" />
-      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info anchor="right" id="Maven Projects" order="6" sideWeight="0.50265956" side_tool="true" weight="0.32954547" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" id="Database" order="8" sideWeight="0.4973404" weight="0.32954547" />
+      <window_info anchor="right" id="Coverage" order="9" weight="0.32954547" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -713,6 +714,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/Obiektowe" />
+    </ignored-roots>
     <MESSAGE value="Pesel" />
     <MESSAGE value="Lab2" />
     <MESSAGE value="Mail is succesfully sent" />
@@ -728,15 +732,21 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <condition expression="x_&gt;300" language="JAVA" />
-          <url>file://$PROJECT_DIR$/src/lab6/cw1/Triangle.java</url>
+          <url>file://$PROJECT_DIR$/src/lab6/ksztalty/Triangle.java</url>
           <line>33</line>
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lab6/Wielomiany/MyPanel.java</url>
+          <line>70</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/lab6/cw1/Circle.java</url>
+          <url>file://$PROJECT_DIR$/src/lab6/ksztalty/Circle.java</url>
           <line>27</line>
-          <properties class="lab6.cw1.Circle" method="inRange">
+          <properties class="lab6.ksztalty.Circle" method="inRange">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="4" />
@@ -820,21 +830,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///usr/lib/jvm/jdk-11/lib/src.zip!/java.base/java/util/Comparator.java" />
-    <entry file="file://$PROJECT_DIR$/src/lab4/pracownicy/PracownikEtatowy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab3/Shapes/Kwadrat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lab3/Shapes/Szesciokat.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -1004,175 +999,57 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lab6/Frame.java" />
     <entry file="file://$PROJECT_DIR$/src/lab6/MouseTestPanel.java" />
-    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.desktop/java/awt/event/MouseEvent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="821" selection-start-line="821" selection-end-line="821" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.desktop/java/awt/event/MouseEvent.java" />
     <entry file="file://$PROJECT_DIR$/src/lab6/DragButton.java" />
     <entry file="file://$PROJECT_DIR$/src/lab6/cw1/MouseMove.java" />
     <entry file="file://$PROJECT_DIR$/src/lab6/cw1/ShapePanel.java" />
-    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.desktop/javax/swing/JComponent.java">
+    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.desktop/javax/swing/JComponent.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.desktop/java/awt/Container.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.desktop/java/awt/Component.java" />
+    <entry file="file://$PROJECT_DIR$/src/lab6/Kacp/Kolo.java" />
+    <entry file="file://$PROJECT_DIR$/src/lab6/Kacp/Kwadrat.java" />
+    <entry file="file://$PROJECT_DIR$/src/lab6/Kacp/Trojkat.java" />
+    <entry file="file://$PROJECT_DIR$/src/lab6/Kacp/MainFrame.java" />
+    <entry file="file://$PROJECT_DIR$/src/lab6/Kacp/Movement.java" />
+    <entry file="file://$PROJECT_DIR$/src/lab6/Kacp/Shape.java" />
+    <entry file="file://$PROJECT_DIR$/src/lab6/Kacp/MyPanel.java" />
+    <entry file="file://$PROJECT_DIR$/src/lab6/ksztalty/Shapes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="3361" selection-start-line="3361" selection-end-line="3361" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.desktop/java/awt/Container.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1392">
-          <caret line="2322" selection-start-line="2322" selection-end-line="2322" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.desktop/java/awt/Component.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="3393" selection-start-line="3393" selection-end-line="3393" />
-          <folding>
-            <element signature="e#116739#116740#0" expanded="true" />
-            <element signature="e#118386#118387#0" expanded="true" />
-            <element signature="e#118433#118434#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab6/Kacp/Kolo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
-          <folding>
-            <element signature="e#168#169#0" expanded="true" />
-            <element signature="e#195#196#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab6/Kacp/Kwadrat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
-          <folding>
-            <element signature="e#177#178#0" expanded="true" />
-            <element signature="e#204#205#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab6/Kacp/Trojkat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
-          <folding>
-            <element signature="e#631#632#0" expanded="true" />
-            <element signature="e#698#699#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab6/Kacp/MainFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab6/Kacp/Movement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="70" column="1" selection-start-line="70" selection-start-column="1" selection-end-line="70" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1090#1091#0" expanded="true" />
-            <element signature="e#1140#1141#0" expanded="true" />
-            <element signature="e#1199#1200#0" expanded="true" />
-            <element signature="e#1248#1249#0" expanded="true" />
-            <element signature="e#1587#1588#0" expanded="true" />
-            <element signature="e#1635#1636#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab6/Kacp/Shape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab6/cw1/Square.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-          <folding>
-            <element signature="e#368#369#0" expanded="true" />
-            <element signature="e#441#442#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab6/Kacp/MyPanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab6/cw1/Shapes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
+        <state relative-caret-position="60">
           <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab6/cw1/MouseMotion.java">
+    <entry file="file://$PROJECT_DIR$/src/lab6/ksztalty/MyPanel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2">
+        <state relative-caret-position="210">
+          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab6/ksztalty/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab6/ksztalty/MouseMotion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
           <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1199#1200#0" expanded="true" />
-            <element signature="e#1226#1227#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab6/cw1/Triangle.java">
+    <entry file="file://$PROJECT_DIR$/src/lab6/ksztalty/Program.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
-          <folding>
-            <element signature="e#650#651#0" expanded="true" />
-            <element signature="e#691#692#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab6/cw1/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="e#536#537#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab6/cw1/Program.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
+        <state relative-caret-position="315">
           <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1180,12 +1057,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab6/cw1/MyPanel.java">
+    <entry file="file://$PROJECT_DIR$/src/lab6/ksztalty/Square.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+        <state relative-caret-position="30">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab6/test/QuadraticSlider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="85" column="17" selection-start-line="85" selection-start-column="17" selection-end-line="85" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#2856#2857#0" expanded="true" />
+            <element signature="e#2922#2923#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab6/Wielomiany/Program.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab6/ksztalty/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#524#525#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab6/Wielomiany/MyPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="66" column="29" selection-start-line="66" selection-start-column="29" selection-end-line="66" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2180#2181#0" expanded="true" />
+            <element signature="e#2246#2247#0" expanded="true" />
           </folding>
         </state>
       </provider>

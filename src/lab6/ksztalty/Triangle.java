@@ -1,4 +1,4 @@
-package lab6.cw1;
+package lab6.ksztalty;
 
 import java.awt.*;
 
@@ -14,7 +14,7 @@ public class Triangle extends Shapes {
 
     @Override
     public void draw(Graphics2D g) {
-        g.setColor(new Color(0,255,0));
+        g.setColor(new Color(0,0,0));
         g.fillPolygon(triangle);
     }
 

@@ -1,4 +1,4 @@
-package lab6.cw1;
+package lab6.ksztalty;
 
 import java.awt.*;
 
