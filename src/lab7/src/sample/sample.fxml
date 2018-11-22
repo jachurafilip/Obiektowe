@@ -1,24 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?import javafx.scene.control.*?>
-<?import javafx.scene.chart.*?>
 <?import java.lang.*?>
-<?import javafx.scene.layout.*?>
 <?import javafx.geometry.Insets?>
-<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.chart.*?>
+<?import javafx.scene.control.*?>
 <?import javafx.scene.control.Button?>
 <?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.GridPane?>
 
-<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
-   <children>
-      <Button fx:id="button" layoutX="79.0" layoutY="265.0" mnemonicParsing="false" onAction="#setValues" text="Button" />
-      <TextField fx:id="field1" layoutX="34.0" layoutY="55.0" />
-      <TextField fx:id="field2" layoutX="34.0" layoutY="105.0" />
-      <TextField fx:id="field3" layoutX="34.0" layoutY="152.0" />
-      <TextField fx:id="field4" layoutX="34.0" layoutY="200.0" />
-      <Label layoutX="34.0" layoutY="40.0" text="a" />
-      <Label layoutX="34.0" layoutY="90.0" text="b" />
-      <Label layoutX="34.0" layoutY="137.0" text="c" />
-      <Label layoutX="34.0" layoutY="185.0" text="d" />
-   </children>
+<Pane fx:id="background" maxHeight="499.0" maxWidth="600.0" minHeight="400.0" minWidth="600.0" prefHeight="499.0" prefWidth="600.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2" fx:controller="sample.Controller">
+  <children>
+    <Button fx:id="button" layoutX="77.0" layoutY="412.0" mnemonicParsing="false" onAction="#setValues" text="Button" />
+    <TextField fx:id="field1" layoutX="34.0" layoutY="55.0" text="0" />
+    <TextField fx:id="field2" layoutX="34.0" layoutY="100.0" text="0"/>
+    <TextField fx:id="field3" layoutX="34.0" layoutY="145.0" text="0"/>
+    <TextField fx:id="field4" layoutX="34.0" layoutY="190.0" text="0"/>
+    <Label layoutX="34.0" layoutY="40.0" text="a" />
+    <Label layoutX="36.0" layoutY="84.0" text="b" />
+    <Label layoutX="34.0" layoutY="129.0" text="c" />
+    <Label layoutX="33.0" layoutY="174.0" text="d" />
+    <Pane fx:id="wykres" layoutX="200.0" layoutY="1.0" prefHeight="400.0000999999975" prefWidth="400.0" />
+    <Label fx:id="error" layoutX="33.0" layoutY="457.0" prefWidth="379.0" text="" />
+    <TextField fx:id="from" layoutX="34.0" layoutY="235.0" prefWidth="144.5078125" text="-10" />
+    <TextField fx:id="to" layoutX="34.0" layoutY="280.0" prefWidth="144.5078125" text="10" />
+    <Label layoutX="36.0" layoutY="219.0" text="From" />
+    <Label layoutX="34.0" layoutY="264.0" text="To" />
+    <TextField id="to" fx:id="samp" layoutX="34.0" layoutY="325.0" prefWidth="144.5078125" text="10" />
+    <Label layoutX="34.0" layoutY="309.0" text="Sampling frequency" />
+    <TextField id="to" fx:id="scale_" layoutX="33.0" layoutY="370.0" prefWidth="144.5078125" text="10" />
+    <Label layoutX="34.0" layoutY="354.0" text="Scale" />
+  </children>
 </Pane>
