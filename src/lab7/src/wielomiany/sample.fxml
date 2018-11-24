@@ -9,7 +9,7 @@
 <?import javafx.scene.layout.*?>
 <?import javafx.scene.layout.GridPane?>
 
-<Pane fx:id="background" maxHeight="499.0" maxWidth="600.0" minHeight="400.0" minWidth="600.0" prefHeight="499.0" prefWidth="600.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2" fx:controller="sample.Controller">
+<Pane fx:id="background" maxHeight="499.0" maxWidth="600.0" minHeight="400.0" minWidth="600.0" prefHeight="499.0" prefWidth="600.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2" fx:controller="wielomiany.Controller">
   <children>
     <Button fx:id="button" layoutX="77.0" layoutY="412.0" mnemonicParsing="false" onAction="#setValues" text="Button" />
     <TextField fx:id="field1" layoutX="34.0" layoutY="55.0" text="0" />
@@ -21,7 +21,7 @@
     <Label layoutX="34.0" layoutY="129.0" text="c" />
     <Label layoutX="33.0" layoutY="174.0" text="d" />
     <Pane fx:id="wykres" layoutX="200.0" layoutY="1.0" prefHeight="400.0000999999975" prefWidth="400.0" />
-    <Label fx:id="error" layoutX="33.0" layoutY="457.0" prefWidth="379.0" text="" />
+    <Label fx:id="error" layoutX="33.0" layoutY="457.0" prefWidth="379.0" />
     <TextField fx:id="from" layoutX="34.0" layoutY="235.0" prefWidth="144.5078125" text="-10" />
     <TextField fx:id="to" layoutX="34.0" layoutY="280.0" prefWidth="144.5078125" text="10" />
     <Label layoutX="36.0" layoutY="219.0" text="From" />
