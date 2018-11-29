@@ -9,12 +9,15 @@ public class DB {
 
     public boolean connect() {
         try {
-            Class.forName("com.mysql.cj.jdbc.Driver").newInstance();
-            conn = DriverManager.getConnection("jdbc:mysql://mysql.agh.edu.pl/jachuraf", "jachuraf", "5XW6DZqZ9vap7DyH");
-
-        } catch (SQLException | ClassNotFoundException | InstantiationException | IllegalAccessException ex) {
-            ex.printStackTrace();
+            for (int i = 0; i < 3; i++) {
+                Class.forName("com.mysql.cj.jdbc.Driver").newInstance();
+                conn = DriverManager.getConnection("jdbc:mysql://mysql.agh.edu.pl/jachuraf", "jachuraf", "5XW6DZqZ9vap7DyH");
+            }
+        } catch (Exception ex)
+        {
+            return false;
         }
+
         if(conn!=null) return true;
         return false;
 
@@ -88,7 +91,7 @@ public class DB {
         try {
             String prepared = "SELECT * FROM books where author like  ?";
             preStmt = conn.prepareStatement(prepared);
-            preStmt.setString(1, '%'+author);
+            preStmt.setString(1, "% "+author);
             rs = preStmt.executeQuery();
 
             while(rs.next()) {
