@@ -1,31 +1,55 @@
-import java.io.*;
 import java.net.*;
-public class EchoServer {
-    public static void main(String[] args) throws IOException {
-        ServerSocket serverSocket = null;
+import java.io.*;
+
+/**
+ * This is the chat client program.
+ * Type 'bye' to terminte the program.
+ *
+ * @author www.codejava.net
+ */
+public class ChatClient {
+    private String hostname;
+    private int port;
+    private String userName;
+
+    public ChatClient(String hostname, int port) {
+        this.hostname = hostname;
+        this.port = port;
+    }
+
+    public void execute() {
         try {
-            serverSocket = new ServerSocket(6666,2);
-        } catch (IOException e) {
-            System.out.println("Could not listen on port: 6666");
-            System.exit(-1);
+            Socket socket = new Socket(hostname, port);
+
+            System.out.println("Connected to the chat server");
+
+            new ReadThread(socket, this).start();
+            new WriteThread(socket, this).start();
+
+        } catch (UnknownHostException ex) {
+            System.out.println("Server not found: " + ex.getMessage());
+        } catch (IOException ex) {
+            System.out.println("I/O Error: " + ex.getMessage());
         }
-        Socket clientSocket = null;
-        try {
-            clientSocket = serverSocket.accept();
-        } catch (IOException e) {
-            System.out.println("Accept failed: 6666");
-            System.exit(-1);
-        }
-        PrintWriter out = new PrintWriter(clientSocket.getOutputStream(), true);
-        BufferedReader in = new BufferedReader(
-                new InputStreamReader(
-                        clientSocket.getInputStream()));
-        String inputLine;
-        while ((inputLine = in.readLine()) != null) {
-            out.println(inputLine);
-        }
-        out.close();
-        in.close();clientSocket.close();
-        serverSocket.close();
+
+    }
+
+    void setUserName(String userName) {
+        this.userName = userName;
+    }
+
+    String getUserName() {
+        return this.userName;
+    }
+
+
+    public static void main(String[] args) {
+        if (args.length < 2) return;
+
+        String hostname = args[0];
+        int port = Integer.parseInt(args[1]);
+
+        ChatClient client = new ChatClient(hostname, port);
+        client.execute();
     }
 }
