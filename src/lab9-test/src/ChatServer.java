@@ -2,12 +2,6 @@ import java.io.*;
 import java.net.*;
 import java.util.*;
 
-/**
- * This is the chat server program.
- * Press Ctrl + C to terminate the program.
- *
- * @author www.codejava.net
- */
 public class ChatServer {
     private int port;
     private Set<String> userNames = new HashSet<>();
@@ -50,9 +44,7 @@ public class ChatServer {
         server.execute();
     }
 
-    /**
-     * Delivers a message from one user to others (broadcasting)
-     */
+
     void broadcast(String message, UserThread excludeUser) {
         for (UserThread aUser : userThreads) {
             if (aUser != excludeUser) {
@@ -61,16 +53,12 @@ public class ChatServer {
         }
     }
 
-    /**
-     * Stores username of the newly connected client.
-     */
+
     void addUserName(String userName) {
         userNames.add(userName);
     }
 
-    /**
-     * When a client is disconneted, removes the associated username and UserThread
-     */
+
     void removeUser(String userName, UserThread aUser) {
         boolean removed = userNames.remove(userName);
         if (removed) {
@@ -83,9 +71,6 @@ public class ChatServer {
         return this.userNames;
     }
 
-    /**
-     * Returns true if there are other users connected (not count the currently connected user)
-     */
     boolean hasUsers() {
         return !this.userNames.isEmpty();
     }
